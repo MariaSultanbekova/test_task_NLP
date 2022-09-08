@@ -10,3 +10,5 @@
 
 Spacy тоже не помогла в этой задаче:
 ![head](https://github.com/MariaSultanbekova/test_task_NLP/blob/master/spacy_results.png)
+
+Наверное, я все усложняю. Попробуем регулярные выражения
